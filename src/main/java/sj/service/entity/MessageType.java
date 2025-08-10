@@ -1,4 +1,4 @@
-package com.yourcompany.sjservice.entity;
+package sj.service.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
