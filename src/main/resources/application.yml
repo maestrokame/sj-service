@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sample
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:9101/realms/sj
