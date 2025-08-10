@@ -1,7 +1,7 @@
-package sj.service.controller;
+package sj.service.sample.controller;
 
-import sj.service.entity.MessageType;
-import sj.service.repository.MessageTypeRepository;
+import sj.service.sample.entity.MessageType;
+import sj.service.sample.repository.MessageTypeRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
